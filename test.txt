@@ -1,0 +1,6 @@
+Hallo, welkom bij dit script
+Het is nu 18 uur
+Er zijn 2 studenten, dit zijn:
+Kyler
+Sander
+Jouw studentnummer is 81318 en jouw naam is Kyler
